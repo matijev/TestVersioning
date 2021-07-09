@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "to6syfsEZ0GDe3n54J6JVk//ypyhiZ0KXimhBL24RxLnThIPgeqR/z96GK/bR9vZeW5mZbbZRS1Dbc+Xxxx6Dg==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\TestVersioning\\TestVersioning\\TestVersioning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e5598276\\.nuget\\packages\\nerdbank.gitversioning\\3.4.220\\nerdbank.gitversioning.3.4.220.nupkg.sha512"
+  ],
+  "logs": []
+}

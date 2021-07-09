@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestVersioning/1.1.0-g": {
+        "dependencies": {
+          "Nerdbank.GitVersioning": "3.4.220"
+        },
+        "runtime": {
+          "TestVersioning.dll": {}
+        }
+      },
+      "Nerdbank.GitVersioning/3.4.220": {}
+    }
+  },
+  "libraries": {
+    "TestVersioning/1.1.0-g": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nerdbank.GitVersioning/3.4.220": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a4A8qKgM1OLmAEnP30qlA8AhVAutKfJtQbfhwXIeUE5QhWKlnGe6cThJik9aKAzZvhcdmUIaN4O0q+JSI6BU4A==",
+      "path": "nerdbank.gitversioning/3.4.220",
+      "hashPath": "nerdbank.gitversioning.3.4.220.nupkg.sha512"
+    }
+  }
+}
