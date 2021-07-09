@@ -6,3 +6,11 @@ F:\Code\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.Ass
 F:\Code\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.csproj.CoreCompileInputs.cache
 F:\Code\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.dll
 F:\Code\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.pdb
+F:\Code\TstVer\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.dll
+F:\Code\TstVer\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.pdb
+F:\Code\TstVer\TestVersioning\TestVersioning\bin\Debug\netcoreapp3.1\TestVersioning.deps.json
+F:\Code\TstVer\TestVersioning\TestVersioning\bin\Debug\netcoreapp3.1\TestVersioning.dll
+F:\Code\TstVer\TestVersioning\TestVersioning\bin\Debug\netcoreapp3.1\TestVersioning.pdb
+F:\Code\TstVer\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.AssemblyInfoInputs.cache
+F:\Code\TstVer\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.AssemblyInfo.cs
+F:\Code\TstVer\TestVersioning\TestVersioning\obj\Debug\netcoreapp3.1\TestVersioning.csproj.CoreCompileInputs.cache

@@ -77,11 +77,11 @@
   "project": {
     "version": "1.2.3",
     "restore": {
-      "projectUniqueName": "F:\\Code\\TestVersioning\\TestVersioning\\TestVersioning.csproj",
+      "projectUniqueName": "F:\\Code\\TstVer\\TestVersioning\\TestVersioning\\TestVersioning.csproj",
       "projectName": "TestVersioning",
-      "projectPath": "F:\\Code\\TestVersioning\\TestVersioning\\TestVersioning.csproj",
+      "projectPath": "F:\\Code\\TstVer\\TestVersioning\\TestVersioning\\TestVersioning.csproj",
       "packagesPath": "C:\\Users\\e5598276\\.nuget\\packages\\",
-      "outputPath": "F:\\Code\\TestVersioning\\TestVersioning\\obj\\",
+      "outputPath": "F:\\Code\\TstVer\\TestVersioning\\TestVersioning\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
