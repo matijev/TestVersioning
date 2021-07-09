@@ -2,7 +2,7 @@
 
 namespace TestVersioning
 {
-	public class Class1
+	public class OsnovnaKlasa
 	{
 	}
 }
