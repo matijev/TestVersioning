@@ -8,5 +8,7 @@ namespace TestVersioning
 		{
 
 		}
+
+		public int MyProperty { get; set; }
 	}
 }

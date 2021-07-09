@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "TestVersioning/1.2.0-gf78acc9902": {
+      "TestVersioning/1.2.1": {
         "dependencies": {
           "Nerdbank.GitVersioning": "3.4.220"
         },
@@ -18,7 +18,7 @@
     }
   },
   "libraries": {
-    "TestVersioning/1.2.0-gf78acc9902": {
+    "TestVersioning/1.2.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
